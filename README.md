@@ -2,7 +2,7 @@
 
 Arc Pay is an open-source no-code USDC payment layer built for merchants on Arc Network.
 
-Created by Asad Lee — Web Developer & Cyber Security Researcher at IMSciences.
+Created by Asad Lee — Web Developer & Cyber Security Researcher.
 
 Arc Pay helps businesses accept USDC payments without needing blockchain knowledge, SDKs, or complex wallet integrations.
 
