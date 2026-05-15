@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Arc Pay 💙
 
-## Getting Started
+Arc Pay is an open-source no-code USDC payment layer built for merchants on Arc Network.
 
-First, run the development server:
+Created by Asad Lee — Web Developer & Cyber Security Researcher at IMSciences.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Arc Pay helps businesses accept USDC payments without needing blockchain knowledge, SDKs, or complex wallet integrations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Paste code → accept payments 🚀
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+- No-code merchant onboarding
+- USDC payment support
+- Embeddable payment widget
+- Shopify & WordPress compatible
+- Merchant dashboard
+- Arc wallet settlement
+- Circle API integration
+- Open-source architecture
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js 14
+- React 18
+- JavaScript
+- Circle API
+- Arc Network
+- Vercel
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📦 Installation
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Clone the repository:
+
+bash id="o5mv4u" git clone https://github.com/Asadlee24/arc-pay.git 
+
+Install dependencies:
+
+bash id="x6ly0q" npm install 
+
+Run the development server:
+
+bash id="55dfrv" npm run dev 
+
+Open in browser:
+
+bash id="1mvw0m" http://localhost:3000 
+
+---
+
+## 🌍 Vision
+
+Arc Pay bridges the gap between blockchain infrastructure and real-world adoption by making crypto payments simple for merchants and online businesses.
+
+---
+
+## 🔗 Links
+
+Live Demo:  
+https://arc-pay-inky.vercel.app
+
+Portfolio:  
+https://asad-lee-portfolio.vercel.app
+
+GitHub:  
+https://github.com/Asadlee24
+
+---
+
+## 👨‍💻 Developer
+
+Asad Lee  
+Web Developer & Cyber Security Researcher at IMSciences
+
+Building practical Web3 products for real-world adoption
